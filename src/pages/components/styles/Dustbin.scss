@@ -10,4 +10,12 @@
   font-size: 1rem;
   line-height: normal;
   float: left;
+
+  &--can-drop{
+    background-color: orange;
+  }
+
+  &--is-over{
+    background-color: green;
+  }
 }
